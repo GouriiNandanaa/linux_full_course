@@ -1,0 +1,107 @@
+
+there are hundreds of linux distributions available.
+
+
+3 major distribution families are:
+    Red Hat family systems/ Red Hat Enterprise Linux (RHEL)
+        - CentOs, Fedora, Oracle Linux
+    SUSE family systems
+        - openSUSE
+    Debian family systems
+        - Ubuntu, Linux
+
+RHEL----
+----------
+Fedora acts as an upstream testing platform.
+CentOS is a close clone of RHEL.
+Oracle Linux is mostly a copy of RHEL with some modifications.
+RHEL supports hardware platforms such as Intel x86, ARM, Itanium, and PowerPC.
+It uses YUM and DNF RPM package managers to install, update, and remove packages on the system.
+RHEL is widely used by enterprises that host their own systems.
+
+
+
+Detailed notes------
+------------------------
+1. Fedora – The Upstream Testing Platform
+
+Fedora is a community-driven Linux distribution sponsored by Red Hat.
+
+Think of Fedora as the "testing ground" for new features that might eventually make it into Red Hat Enterprise Linux (RHEL).
+
+It gets the latest software updates and technologies first — which means it’s great for developers and enthusiasts who want to experiment with cutting-edge tools.
+
+Because Fedora changes quickly and releases new versions every 6 months, it’s not meant for long-term production servers, but it helps RHEL stay modern and secure.
+
+--------------------------------------------------------------------------------------
+
+
+2. CentOS – The Free RHEL Clone (Now Stream)
+
+CentOS used to be a free, binary-compatible clone of RHEL, meaning it was almost identical to RHEL but without the paid support.
+
+This made it very popular for businesses and developers who wanted RHEL’s stability without the subscription cost.
+
+In recent years, CentOS has shifted to CentOS Stream, which is slightly ahead of RHEL (receives updates before they go into RHEL).
+
+This makes CentOS Stream a kind of "preview" of what the next RHEL release will look like.
+
+--------------------------------------------------------------------------------------
+
+3. Oracle Linux – RHEL-Compatible with Extra Features
+
+Oracle Linux is another RHEL-compatible distribution, created by Oracle.
+
+It is designed to be fully compatible with RHEL, so software that runs on RHEL usually runs on Oracle Linux without changes.
+
+Oracle also adds some of its own kernel options (like the Unbreakable Enterprise Kernel) and performance tweaks for Oracle software.
+
+It’s free to use, but you can pay for Oracle support if you need enterprise-level help.
+
+
+--------------------------------------------------------------------------------------
+
+4. RHEL – The Enterprise Standard
+
+Red Hat Enterprise Linux (RHEL) is a commercial Linux distribution designed for businesses.
+
+It’s known for its stability, long-term support, and security.
+
+Red Hat provides professional support, updates, and certifications that many companies rely on.
+
+Hardware Support: RHEL runs on multiple architectures:
+
+Intel x86 / x86_64 (most common PCs and servers)
+
+ARM (used in cloud servers and some IoT devices)
+
+PowerPC (used in some enterprise servers)
+
+Itanium (used in legacy enterprise hardware)
+
+--------------------------------------------------------------------------------------
+
+5. YUM and DNF – The Package Managers
+
+RHEL (and its clones) use RPM packages to install software.
+
+YUM (Yellowdog Updater, Modified) and DNF (Dandified YUM) are tools that make installing, updating, and removing software easy.
+
+For example, if you want to install a web server like Apache, you can just run:
+
+sudo dnf install httpd
+
+
+and it will automatically download and set up everything you need.
+
+--------------------------------------------------------------------------------------
+
+6. Why Enterprises Love RHEL
+
+Long-Term Support: RHEL versions are supported for up to 10 years.
+
+Security: Red Hat provides regular patches and security updates.
+
+Certification: Many enterprise apps (like SAP, Oracle DB) are officially certified to run on RHEL.
+
+Stability: Perfect for servers that need to run reliably 24/7.
