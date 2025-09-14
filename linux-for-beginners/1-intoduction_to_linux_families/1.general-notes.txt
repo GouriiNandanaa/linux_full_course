@@ -1,0 +1,11 @@
+
+There are hundreds of linux distributions available.
+
+
+3 major distribution families are:
+    Red Hat family systems/ Red Hat Enterprise Linux (RHEL)
+        - CentOs, Fedora, Oracle Linux
+    SUSE family systems
+        - openSUSE
+    Debian family systems
+        - Ubuntu, Linux
