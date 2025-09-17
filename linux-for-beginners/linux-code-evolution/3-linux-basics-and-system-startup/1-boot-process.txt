@@ -1,0 +1,36 @@
+
+Boot process is the process starting from the powering on of an OS
+to making it fully functional
+
+
+1-BIOS[Basic Input Output System]
+    initialize the hardware including the screen , keyboard and test the main memory
+    the checking of main memory is known as the POST - Power On Self Test
+
+    The BIOS software is stored on a ROM chip on the motherboard
+
+    The remaining of the boot process is completed by the OS
+
+
+
+2-Master Boot Record (MBR)
+    The MBR is the first sector (512 bytes) of a storage device (like HDD, SSD, USB) that is bootable.
+    It is created when you partition and format a disk.
+    It contains:
+        Bootloader code – a very small program (about 446 bytes) whose job is to find and load a larger bootloader or operating system.
+        Partition table – information about how the disk is divided into partitions.
+        Signature – 2 bytes (0x55AA) at the end to mark it as a valid boot record.
+    Without the MBR, the computer doesn’t know where to find the OS on the disk.
+
+
+3-Boot Loader
+    The boot loader is a program responsible for loading the operating system kernel into memory.
+    Since the BIOS can only run simple code, it hands control to the boot loader (from MBR or UEFI).
+    Functions:
+        Loads the kernel of the OS into RAM.
+        Passes control to the kernel.
+        May provide a menu if multiple operating systems are installed (dual boot).
+    Examples of boot loaders:
+        GRUB (GNU GRUB) – used in Linux/Unix systems.
+        LILO (Linux Loader) – older Linux bootloader.
+        Windows Boot Manager (BOOTMGR) – used by Windows OS.
