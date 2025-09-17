@@ -1,2 +1,0 @@
-The relationship between SUSE and openSUSE is similar to that of RHEL, CentOS and Fedora
-openSUSE is used as the reference for the SUSI family as its available to end users
