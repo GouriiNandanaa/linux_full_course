@@ -1,0 +1,8 @@
+The relationship between SUSE and openSUSE is similar to that of RHEL, CentOS and Fedora
+openSUSE is used as the reference for the SUSI family as its available to end users
+
+
+SLES is upstream openSUSE
+it use RPM based package manager to install update and remove packages in the system includes yast or  yet another setup tool[YaST] application
+it is widely used in retail and many other sectors
+
