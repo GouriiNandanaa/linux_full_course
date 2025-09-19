@@ -8,3 +8,8 @@ to making it fully functional
     the checking of main memory is known as the POST - Power On Self Test
 
     The BIOS software is stored on a ROM chip on the motherboars
+
+    dchbc
+    sdfhsd
+    sdjfnsd
+    osndfcos
