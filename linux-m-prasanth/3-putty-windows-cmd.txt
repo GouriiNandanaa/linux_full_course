@@ -1,0 +1,3 @@
+PuTTY
+it is an open source terminal
+its widely used for remote access to servers via SSH
