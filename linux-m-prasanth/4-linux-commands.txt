@@ -1,0 +1,4 @@
+ls
+ls -lt
+ls -ltr
+ls -lh - make the size and all in a human readable format
