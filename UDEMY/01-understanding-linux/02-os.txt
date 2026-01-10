@@ -1,0 +1,13 @@
+What is os?
+
+os is a System sw that manages cumputer hw and sw resources and common services for computer programs
+
+middleman btwn computer hw and the user. provides ui and controls the computer hw so that the sw can perform.
+
+types of os:
+--------------
+desktop os  - microsoft windows, macos, linux such as ubuntu
+server os  -  windows server, linux distributions like centos, rhel
+mobile os - android, ios, windows mobile
+embedded os - used in devices like routers, smart tv, automobiles, home appliances
+rtos - used in critical systems like medical equipment, car ecu, aerospace, defence, nw firewall, home security system

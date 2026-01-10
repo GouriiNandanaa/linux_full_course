@@ -1,0 +1,28 @@
+Module 1
+    understanding linux
+        what is linux
+        everyday use of linux
+        unix vs linux
+
+
+Module 2
+    Download install and configure
+
+
+Module 3
+    System Access and File System
+Module 4
+    linux Fundamentals
+Module 5
+    System Administration
+Module 6
+    Shell Scripting
+Module 7
+    Networking Servers and System Updates
+Module 8
+    Disk Management and Run Levels
+Module 9
+    Resume
+Module 10
+    Interview
+
