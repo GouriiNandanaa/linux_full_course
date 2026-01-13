@@ -1,0 +1,19 @@
+What is oracle virtual box?
+
+it is a free and open source hypervisor for x86 computers currently being developed by oracle coorporation.
+
+installs on the existing intel or amd based computers whether they are running windows mac linux or solaris os.
+
+it extens the capabilities of your existing computers so that it can run multiple os one the hw at the same time
+
+
+
+
+
+linux, mac, windows
+
+ovb
+
+os
+
+hw
