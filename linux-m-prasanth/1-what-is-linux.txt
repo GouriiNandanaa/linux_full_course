@@ -1,0 +1,51 @@
+linux is an open source os
+it is known for its security and flexibility
+
+
+created by linus torvald in 1991
+linux = linus + unix
+
+unix is a multiuser multitasking powerful os 
+developed in 1970s at&t lab
+
+unix is licensed by linux is open source
+
+linux is inspired by the unix and is designed to be unix like
+it follows many of the same principles and standards making it compatible with the unix software and commands
+
+
+
+linux is an os
+linux is an open sources kernal
+kernal is the core part in an os 
+where it communicate with the hardware and software, managing system resources
+
+
+for eg: kernal is like an engine
+car is made by different companies
+that is os like ubuntu and cent os
+
+
+what is linux distribution?
+an os made from the software collection, which include the linux kernal and often a package managmeent system
+
+
+key features
+open source
+multiple users'
+multitasking
+security
+portability
+
+
+job demand
+    sys administrations
+    devops engineer
+    cloud architecture
+    network engineer
+    cybersecurity
+
+industry adoption
+    google fb amazon
+    for cloud development
+    

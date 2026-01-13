@@ -1,0 +1,48 @@
+man <command-name>
+to get a documentation about that command
+
+things to learn
+
+Kernal
+    it is considered as the brain of the Linux OS
+    it makes the hardware interact with the applications
+    Glue between hardware and application
+    An eg of kernal is Linux Kernal (The most recent and old kernals can be found out in kernal.org)
+
+distribution
+    it is also known as Distro
+    it is a collection of programs combined with Linux kernal to make a linux based OS
+    RHEL, SUSE, Debian
+
+Boot loader
+    it is the program that boots the OS
+    Eg: GRUB, ISOLINUX
+
+Service
+    it is a program that runs as a background process
+    Eg: httpd, nfsd, ntpd, ftpd, and named
+
+File system
+    Method for storing and organizing files
+    Eg: ext3, ext4, FAT, XFS, NFTD and Btrfs
+X Window system
+    it is a standard toolkit and protocol to build graphical user interfaces on your linux systems
+Desktop environment
+    Graphical user interface on top of the operating systems
+    Eg: GNOME, KDE, Xfce and Fluxbox
+Command Line
+    it is the interface for typing commands on top of the OS
+Shell
+    it is the command line interpreter that interprets the command line input and instructs the OS to perform any necessary tasks and commands
+
+
+
+
+
+
+
+KEY POINTS
+-----------------
+Linux borrows from UNIX
+Linux accesses features through files
+Linux is a multitasking OS

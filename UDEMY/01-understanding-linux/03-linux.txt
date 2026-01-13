@@ -1,0 +1,19 @@
+what is linux?
+
+free open source os
+stability, flexibility, security
+it can be modified and distributed by anyone.
+this lead to many different versions known as distributions. and each distribution is for different use cases
+
+why learn linux?
+    servers and in cloud
+    free sw philosophy
+    strong cli
+    faster processing
+    secure
+    customization - open source
+    community support
+    understanding of other os
+    careeer
+
+    

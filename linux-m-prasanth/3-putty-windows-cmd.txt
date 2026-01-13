@@ -1,0 +1,6 @@
+PuTTY
+it is an open source terminal
+its widely used for remote access to servers via SSH
+
+
+that means if you have to access the terminal remotely with the help of internet or anything you can use this terminal

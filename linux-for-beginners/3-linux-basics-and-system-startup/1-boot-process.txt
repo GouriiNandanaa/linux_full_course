@@ -1,0 +1,15 @@
+
+Boot process is the process starting from the powering on of an OS
+to making it fully functional
+
+
+1-BIOS[Basic Input Output System]
+    initialize the hardware including the screen , keyboard and test the main memory
+    the checking of main memory is known as the POST - Power On Self Test
+
+    The BIOS software is stored on a ROM chip on the motherboars
+
+    dchbc
+    sdfhsd
+    sdjfnsd
+    osndfcos

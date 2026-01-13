@@ -1,0 +1,14 @@
+Airplane - the in flight movies are on an embedded linux System
+
+Internet access  -  the wifi router has an embedded copy of the linux running through the web Management application
+
+tv - on screen ui often runs on embedded version of linux
+
+self driving cars 
+
+appliances with touch screen
+
+most of the tablets
+
+windows data recovery disc are customized linux machines
+

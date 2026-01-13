@@ -1,0 +1,28 @@
+
+for testing the app and you only have windows
+sometimes we need linux
+
+to learn linux and all
+we need virtual machine
+
+by using virtualisation, we can use another operating systems
+
+
+
+hypervisor--
+------------------
+
+it is the software that creates and runs virtual machine
+with that we can use multiple os
+
+
+how hypervisor works
+virtual box share hardware resources from host os
+separate set of virtual cpu, ram, storage
+
+for eg:
+if you have a cpu with 8gb ram and 100gb hdd where you run windows
+then you ca split it into 2gb ram and 10gb hdd for ubuntu and the same for macos
+
+
+virtual box share hardware resources from the host os

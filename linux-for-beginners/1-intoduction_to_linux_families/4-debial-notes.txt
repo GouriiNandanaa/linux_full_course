@@ -1,0 +1,7 @@
+Debian is a pure open source community project which is not owned by any cooperation
+
+
+Debian family is upstream for Ubuntu
+DPKG based APT package manager to install, update and remove packages in the system 
+Ubuntu is widely used for cloud deployments
+GNOME based but differs visually

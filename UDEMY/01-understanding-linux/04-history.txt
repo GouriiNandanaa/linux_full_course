@@ -1,0 +1,52 @@
+UNIX
+----
+1970
+AT&T's Bell Labs
+Ken Thompson and Dennis Ritchie
+Unix was not free
+
+
+GNU Project
+-----------
+1983
+Richard stallman
+its not unix. But to build unix like os
+
+while many of the tools and utilities have built under the gnu project, but a kernal was missing.
+
+Linux
+----
+1991
+linus torwald 
+started developed linux as a hobby project
+aug 25, 1991 announced his project on the MINIX Newsgroup 
+Version 0.01 released - september 1991
+    not functional
+    released to public
+
+Version 0.02
+    Later in 1991
+    functional
+    combined with utilities from gnu projects
+    complete free os
+    This is linux or GNU linux
+
+
+Early 1990s
+    linux rapidly evolved through the collaboration over the Internet
+    Distribitions emerged
+
+
+IN 1994 
+    version 1.0 was relesed with 176000 lines of code
+
+1998
+    commercialize for professional use - by suse rhel
+
+2000s - significant adoption in the server market
+
+2007 android - google released it for mobile devices
+
+
+Now 
+linux is a powerful computing in mobile pc servers super computers ...
