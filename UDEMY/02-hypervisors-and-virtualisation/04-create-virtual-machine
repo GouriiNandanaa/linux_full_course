@@ -1,0 +1,6 @@
+Nat and bridge adapter
+The main difference is NAT (Network Address Translation) acts like a router, giving VMs internet access via the host but hiding them, while Bridged Adapter makes the VM a separate, full network participant, getting its own IP and appearing as another physical device on the network, allowing direct access from other machines.
+
+You can use any of the ubuntu
+but 80% of the cooperate use the rhel
+and cent os is the same as rhel [free]
