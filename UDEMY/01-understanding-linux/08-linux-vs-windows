@@ -1,0 +1,34 @@
+availability of source code
+    linux is open source
+    windows is proprietary sw by Microsoft
+
+Cost 
+    Linux is free
+        red hat is free to download and use. But need to pay if we want their support
+    windows os pay
+
+UI
+    There are dffrnt desktop env like GNOME, KDE, XFCE available in Linux
+    Windows: there is a std gui amongst all of the windows versions - user friendly - less customizable 
+
+CLI
+    console is the very core of Linux
+    windows it does have a power shell and command prompt
+
+SW Installation and package manager
+    sw is generally installed using pckge managers like APT, YUM, Pacman
+    Windows is mostly installed using standalone executables(.exe)
+
+Security
+    linux is more secure
+    windows have large user base windows, malwares and somewhat vulnerable
+
+System stability and performance
+    linux is more stable and performance
+    although windows is stable it tends to slow down after some time 
+
+File System
+    linux - ext4, xfs and btrfs
+    windows - nfts and fat32
+
+    

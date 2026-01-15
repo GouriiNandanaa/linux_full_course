@@ -6,14 +6,25 @@ installs on the existing intel or amd based computers whether they are running w
 
 it extens the capabilities of your existing computers so that it can run multiple os one the hw at the same time
 
-
-
-
-
 linux, mac, windows
+ ^
+ |
 
 ovb
+ ^
+ |
 
 os
-
+ ^
+ |
 hw
+
+STEPS:Go to the website virtualbox.org
+
+in the navigation bar click on the downloadscheck for the latest version and install it based on which os you are using
+
+double click and install the .exe file 
+
+yes --> next --> nextstop every process that runs in the background or downloading or anything stop it and come back
+
+click the check mark and finish it

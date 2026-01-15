@@ -1,0 +1,21 @@
+Cent OS vs cent os stream
+    community enterprise os
+
+    2004 greag kurtzer take the code of Red Hat OS 
+    and put different branding on that called it as cent os
+    lot of vouteens contributed on the os
+
+    later in 2014, red hat come back and getback cent os
+
+    before fe 2021,
+    Fedora -> RHEL -> CentOS
+
+    after feb 2021
+    Fedora -> Cent os stream -> RHEL
+
+
+    Now the centos is called as upstream instead of downstream becauase of this 
+    updates are now pushed from the Cent os stream to rhel
+    previously it was in reverse order
+
+    

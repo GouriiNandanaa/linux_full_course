@@ -1,0 +1,28 @@
+Linux distributions / Distros
+
+Ubuntu - Canonickol Ltd. 
+
+fedora - Red Hat
+
+Debian - stability
+
+RHEL - designed for business and enterprises - Long term support - 70-80% cooperate companies use this.
+
+CentOS - open source of RHEL
+
+archLinux - customisation - user design the system by selecting the components
+manjaro Linux is made from archLinux
+
+openSUSE - comes in 2 main flavours - tumbleweed (which is a rolling release)  and leap (which is the regular release)
+
+linuxmint - more traditional and detailed desktop experience
+
+Gentoo - user compiles the code from the source code. Highly customisable for the user
+
+slackware - old, simple, minimal
+
+alpine linux - security, simplicity and ability to containerise application
+
+Kali linux - digital forensics and penetration linux
+
+

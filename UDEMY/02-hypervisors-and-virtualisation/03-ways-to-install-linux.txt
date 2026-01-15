@@ -1,0 +1,20 @@
+
+cd
+
+iso image download from the website and attatch that to the virtual disk of your computer
+
+    how to access the virtual disk?
+        Every computer has the console access
+        Dell has iDRAC
+        Hp  - iLO
+
+
+network boot
+    common in bigger organization
+    100s of computers
+    tell the computer to go to a specific folder in a specific ip taht has been shared by a NFS / Samba server
+    then do the network boot
+
+attach USB with iso image
+
+installation application eg: red hat kickstart
