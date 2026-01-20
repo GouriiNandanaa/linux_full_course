@@ -1,0 +1,12 @@
+linux has a super account called root
+most powerful account that can create modify, delete accounts and make changes to system confi files
+
+linux is case sensitive
+
+dont use spaces when creating files or directories
+
+linux kernal is not an os. it is a small sw within linux os that takes commands from users and pass them to system hw or peripherals
+
+linux is mostly cli not gui
+
+very flexible compared to other os

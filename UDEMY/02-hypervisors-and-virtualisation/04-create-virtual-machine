@@ -4,3 +4,7 @@ The main difference is NAT (Network Address Translation) acts like a router, giv
 You can use any of the ubuntu
 but 80% of the cooperate use the rhel
 and cent os is the same as rhel [free]
+
+
+we can snapshot the state of the vm 
+and we can revert to this state actually 

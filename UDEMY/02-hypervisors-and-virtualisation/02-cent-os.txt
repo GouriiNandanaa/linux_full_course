@@ -3,7 +3,7 @@ Cent OS vs cent os stream
 
     2004 greag kurtzer take the code of Red Hat OS 
     and put different branding on that called it as cent os
-    lot of vouteens contributed on the os
+    lot of voluteers contributed on the os
 
     later in 2014, red hat come back and getback cent os
 
@@ -18,4 +18,4 @@ Cent OS vs cent os stream
     updates are now pushed from the Cent os stream to rhel
     previously it was in reverse order
 
-    
+    CentOS Linux and CentOS Stream differ fundamentally in how they relate to Red Hat Enterprise Linux (RHEL). The classic CentOS Linux distribution was a downstream rebuild of RHEL, designed to be functionally identical and extremely stable. CentOS Stream, by contrast, is positioned upstream of RHEL and serves as a continuously updated preview of the next RHEL minor release. This shift represents a change in philosophy rather than a simple renaming.

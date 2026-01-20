@@ -1,0 +1,21 @@
+2 types of access
+    console
+    remote
+
+
+console is a direct access to an os when it is connected through vga, hdmi, dvi, etc..
+
+remote access allows you to connect to your os remotely over the nw
+
+you can enter the ip of the distant machine and then it allows you to connect to other ventors machine
+
+to connect linux through windows machine remotely you need PuTTY. Once you download it and installed then you get your IP address of your linux machine. you will enter the ip address and you will be able to connect as command line
+
+
+if you are using 10 or new windows then no need of installing PuTTY
+it already has a ssh built in client
+go to your command prompt
+and type ssh + space + ipv4 address
+
+PuTTY is only used to connect windows with linux with windows version below 10
+

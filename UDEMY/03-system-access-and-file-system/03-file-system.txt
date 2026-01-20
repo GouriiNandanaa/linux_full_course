@@ -1,0 +1,4 @@
+what is file system?
+it is  a system used by an os to manage files. The system controls how data is served or retrieved.
+
+ 
