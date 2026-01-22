@@ -1,4 +1,44 @@
 what is file system?
 it is  a system used by an os to manage files. The system controls how data is served or retrieved.
+os stores f&d in an organized and structured way
+    system confi => folder a
+    user files => folder b
+    log files => folder c
+    commands and scripts => folder d
 
+
+there are many dffrnt types of file system. In general improvements are made to fs with new release of os and each new fs has been given a dffrnt name
+
+linux file system - ext3, ext4, xfs
+windows - ntfs and fat
+
+if we go to file explorer -> c drive
+then we can see file system built while buiding the os
+program files and program files x86 used to store files of the applications installed into the computer
+
+User directory to store details of the user
  
+ os files in windows
+
+
+ in linux
+ everything starts from root (/)
+
+
+ File system in linux
+ ---------------------
+
+ /boot - contains file that is used to boot loader (Eg: grub.cfg)
+grub.cfg is the main configuration file for GRUB (GRand Unified Bootloader).
+It tells GRUB what operating systems are available, which kernel to boot, and what boot parameters to use.
+It is the first thing the os that needs to boot up, the system lookd for /boot
+It is somehow hardcoded in the disk
+
+/root
+it is the root user home directory
+It is not / (root)
+When you boot into a linux system as root and you do pwd
+you will be in /root not just /
+
+/dev
+This is the system device such as a disk, s CD-ROM, speakers, flash drive, keyboard, mouse or any of those peripheral devices
