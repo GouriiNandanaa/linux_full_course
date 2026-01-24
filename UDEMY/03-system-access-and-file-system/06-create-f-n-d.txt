@@ -1,0 +1,28 @@
+touch filename 
+    to create files
+    touch newfile
+
+cp newfile newfileForCopy
+
+
+vi or vim editor
+if the version is new, better to use vim
+but both are the same
+    to get out of the editor
+    press :wq!
+    then only we will get out of the editor
+    
+
+also when using touch we can 
+    touch file1 file2 file4
+
+
+create a directory we can use the command
+    mkdir newDirectory
+
+NOTES:
+also  a normal user cant create files outside the home directory
+only root have the permission to create files in /folders
+
+To make the copy of a directory also we can use the command 
+cp

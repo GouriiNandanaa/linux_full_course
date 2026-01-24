@@ -42,3 +42,73 @@ you will be in /root not just /
 
 /dev
 This is the system device such as a disk, s CD-ROM, speakers, flash drive, keyboard, mouse or any of those peripheral devices
+They are created as files in linux and they will be in the dev directory
+
+
+/etc 
+configuration files
+if you are running sendmail, nfs, ntp or any app that actually runs on top of your linux machine, all those conf files are located here
+if you want to modify something on these files like dns we will go to this /etc name.com
+sendmail -> sendmail.cf
+if you are making any changes in this dir, first make a back up of that files
+
+
+/bin 
+in newer version it is /usr/bin
+everyday user commands
+ls, pwd
+
+
+/sbin 
+in newer version it is /usr/sbin
+this is the system / file system commands
+the commands that you really need for system type of purposes
+extending the fs or configure the fs
+
+
+/opt
+optional add on applications
+not part of OS
+not for apps like ntp dns, 
+they are actually come with os
+opt is for third party applications
+
+
+/proc
+create files for all the running processes (only exist in the memory)
+when shutting down there will be nothing in /proc
+it is the program kernal that create all these files in that directory
+
+
+/lib  -> usr/lib
+it is all the c programming library files needed for all commands and applications
+all the commands like ls pwd have libraries attatched to them so that they can go and look for and thats how these programs are run
+For identifying which library is used for each command 
+strace -e open pwd
+
+
+/tmp
+directory for temporary files
+
+
+/home
+directory for user
+
+
+/var
+system logs 
+
+
+/run
+temporary run time files like PID files
+go away when system is shut down
+
+
+/mnt
+mount external file system
+
+
+/media
+for cdrom mounts
+
+

@@ -1,0 +1,13 @@
+There are 2 paths to navigate to a fs
+    absolute
+    relative
+
+absolute path starts with / . starts at the root directory
+Eg: cd /var/log/samba
+
+relative dont start with /.
+It identifies a location relative to your current position. An eg of relative path is
+Eg:
+    cd /var
+    cd log
+    cd samba

@@ -1,0 +1,18 @@
+- each file or dir in linux has detail info or properties
+when we do ls -l in linux
+    type
+        anything that starts with d it is directory
+        if it is - then it is a file
+        l - link
+    # of links
+        number of hard links to the file. For a dir, the no of hard link is the no of immediate subdir it has plus its parent dir and itself
+    owner
+        who owns the file
+    group
+        which group owns this file or dir
+    size
+    month
+    day
+    time 
+    name
+
