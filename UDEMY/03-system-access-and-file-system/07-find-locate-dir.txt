@@ -1,0 +1,27 @@
+find
+locate
+    these are the commands used to find files in linux
+
+for searching we cant search the entire thing 
+by typing ls -l
+
+find . -name "kramer"
+. -> means to check the present working directory
+-name means the searching element is the name
+
+
+locate kramer
+    this is one another command to find the location of the kramer
+locate command does not op any result, then as root run "updatedb" -this command is used to update the locate db
+also make sure that you have "mlocate" package installed
+to check = rpm -qa | grep mlocate
+
+locate and find difference
+    locate uss prebuilt db which should be regularly updated
+    find iterated over a fs to locate files.
+
+    locate is much faster than find but can be inaccurate if the db is not updated (cache)
+
+    need sudo permission to updatedb
+
+    

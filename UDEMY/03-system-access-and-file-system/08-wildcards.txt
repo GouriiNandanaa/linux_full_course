@@ -1,0 +1,37 @@
+a wildcard is  a character that can be used as a substitute for any of a class of characters in a search
+
+* represents zero or more characters
+? a single character
+[] represents a range of characters
+
+Eg:
+    touch te1t te2t te3t te4t te5t te6t
+
+find . -name "te?t"
+./te1t
+./te2t
+./te3t
+./te4t
+./te5t
+./te6t
+
+ind . -name "te*"
+./.mozilla/firefox/gozeexlc.default-default/storage/temporary
+./te1t
+./te2t
+./te3t
+./te4t
+./te5t
+./te6t
+
+
+find /home/gourinandana -name "te[1..3]t"
+/home/gourinandana/te1t
+/home/gourinandana/te3t
+
+
+
+find /home/gourinandana -name "te[123]t"
+/home/gourinandana/te1t
+/home/gourinandana/te2t
+/home/gourinandana/te3t
