@@ -1,0 +1,41 @@
+linux file types 
+
+    -    regular file
+    d    directory
+    l    link
+    c    special file or device file
+    s    socket
+    p    named pipe
+    b    block device
+
+
+    files can be anything
+    text, exec, images, videos, etc
+    these are the regular files
+
+    link:
+    special files that points to other files
+    soft and hard links
+
+    special file / device file
+    like keyboard mouse attatched to the computer 
+    files for the hw devices
+    serial port CPU, or a memory to your system, the operating system creates it as a file starting with C.
+
+    block:
+    another device file is block device file.
+    These files represents hardware devices that handle data in blocks, such as hard drives or USB drives.
+    The identification of these file is starting with B.
+
+    SOCKET:
+    used for nw communications between processes allowing data exchange bw them
+
+    pipe
+    known as FIFO.
+    FIFO files are used for interprocess communication inside your computer.
+    They allow data to be passed from one process to another in a first in, first out manner.
+
+
+
+
+

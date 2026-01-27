@@ -27,3 +27,4 @@ only root have the permission to create files in /folders
 To make the copy of a directory also we can use the command 
 cp -R <source_file> <destination_file>
 cp -R config /tmp/config-bak 
+ 

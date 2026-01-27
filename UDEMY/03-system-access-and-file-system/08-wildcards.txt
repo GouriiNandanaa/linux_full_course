@@ -35,3 +35,28 @@ find /home/gourinandana -name "te[123]t"
 /home/gourinandana/te1t
 /home/gourinandana/te2t
 /home/gourinandana/te3t
+
+
+for removing:
+ rm te?t
+
+ for creating 
+ touch abc{1..9}-test
+[gourinandana@MyLinuxVm ~]$ ls -l
+total 0
+-rw-r--r--. 1 gourinandana gourinandana  0 Jan 25 19:59  abc1-test
+-rw-r--r--. 1 gourinandana gourinandana  0 Jan 25 19:59  abc2-test
+-rw-r--r--. 1 gourinandana gourinandana  0 Jan 25 19:59  abc3-test
+-rw-r--r--. 1 gourinandana gourinandana  0 Jan 25 19:59  abc4-test
+-rw-r--r--. 1 gourinandana gourinandana  0 Jan 25 19:59  abc5-test
+-rw-r--r--. 1 gourinandana gourinandana  0 Jan 25 19:59  abc6-test
+-rw-r--r--. 1 gourinandana gourinandana  0 Jan 25 19:59  abc7-test
+-rw-r--r--. 1 gourinandana gourinandana  0 Jan 25 19:59  abc8-test
+-rw-r--r--. 1 gourinandana gourinandana  0 Jan 25 19:59  abc9-test 
+
+
+
+oTher wild cards:
+\ = slash - as an esc character
+^ = caret - the beginning of the line
+$ = dollar - the end of the line

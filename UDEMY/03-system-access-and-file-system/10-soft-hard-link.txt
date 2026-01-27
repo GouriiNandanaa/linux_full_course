@@ -1,0 +1,66 @@
+inode = it is a pointer of a file in the hard disk
+if i create a file called gouri, that is a name for me so that human would understand that 
+but not a computer
+but computer understands numbers
+and whenever we create a file, computer assigns a number to that file in the hard disk.
+that number is the inode
+when we try to read or write that file it goes to retreive that number
+
+
+
+soft link will be removed if the file is removed or renamed
+if i create a file and create a link, a soft link to that fiel and so i remove the source file it will remove the destination link
+
+but the hard link remains the same even after deleting renaming or moving the original file.
+
+create a link 
+    ln (for hard link)
+    ln -s (for soft link)
+
+
+    ------------inode-----------------
+    ^                       ^
+    |                       |
+my-hard-link           myfile.txt
+                          ^
+                          |
+                          |
+                      my-soft-link
+
+
+On the right hand side, my-soft-link, it is connecting through myfile to the inode.
+Whereas my-hard-link is connecting straight to the inode.
+So if the middle part, which is myfile.txt, goes away, my-soft-link goes away.
+However, in my-hard-link file, if middle file, myfile.txt goes away, it doesn't matter, the file stays.
+
+
+links are basically like a shortcut like we create a shortcut in the windows desktop
+
+note:
+we cant create links within the same dir with the same name. so use temp folder /tmp
+
+ln -s /home/gourinandana/gouri
+ls -i
+    gives the inodes
+
+so go to home ls -i
+ 1180887  gouri 
+ go to tmp and ls -i
+ 17533304 gouri
+
+ both gives differnt inode number
+ then go to home and remove gouri
+ then go to tmp and ls -ltr gouri
+    changes the color 
+    and if we try to print the contents
+    it will show file dont exist error
+so this is how a soft link works
+
+
+hard link works only if the link and file is in the same partition
+create a file in home
+create a hard link in tmp
+after creating ls -l in the tmp wont show any pointing like they do in the soft link
+if we edit the source / dest both will change
+inode number will be same in 
+even if remove source, link exists
