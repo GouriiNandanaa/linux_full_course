@@ -1,0 +1,18 @@
+command option(s) arguments
+
+options:
+modify the way that a command works
+usually consist of a hyphen or dash followed by a single letter
+some commands accept multiple options which can usually be grouped together after a single hyphen 
+
+arguments:
+most commands are used together with one or more arguments
+some commands assume default argument of none is supplied
+they are optional for soem cammands and required by others
+
+
+ls -l gouri
+
+man <command>
+hit space
+q to quit

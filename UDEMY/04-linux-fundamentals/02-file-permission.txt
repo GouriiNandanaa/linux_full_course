@@ -1,0 +1,49 @@
+unix is a multi user system. Every file and directory in your account can be protected responsibility for controlling access to their files.
+
+3 types 
+    read
+    write
+    execute
+
+each permission is controlled by 3 levels
+    user - u - yourself
+    group - g - can be people in the same project
+    other - o - everyone on the system
+
+ls -l 
+10  bit
+1st bit is the file type
+    next 3 permission of the user
+    next 3 - group
+    next 3 - others
+
+chmod - change permissions
+chmod u+r filename
+chmod a-r filename
+    this is for all the levels remove read permission
+
+if we remove all permissions are try to delete it will show a warning sign 
+
+and cat ing that shows permission denied
+
+
+
+also x in directory means that we can cd into that directory
+permission denied
+
+
+we can do that using numeric value as well
+
+chmod ugo+r newfile
+instead of doing this we can 
+chmod 444 newfile
+
+
+chmod 764 newfile
+means
+7 - 111 - all permission to user
+6 - 110 - read write to group
+4 - 100 - read only to others
+
+
+put 0 if you dont want to give any permission to that level
